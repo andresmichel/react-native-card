@@ -7,5 +7,5 @@
 ### Installation
 
 ```bash
-$ yarn add https://github.com/andresmichel/react-native-card-box
+$ npm install react-native-card-box
 ```
