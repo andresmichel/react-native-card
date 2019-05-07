@@ -1,5 +1,5 @@
 {
-  "name": "react-native-card",
+  "name": "react-native-card-box",
   "version": "0.1.0",
   "description": "React Native Card",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "ui",
     "card"
   ],
-  "repository": "https://github.com/andresmichel/react-native-card",
+  "repository": "https://github.com/andresmichel/react-native-card-box",
   "author": "Andres Michel",
   "license": "MIT",
   "dependencies": {
