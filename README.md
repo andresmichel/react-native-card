@@ -1,14 +1,11 @@
-# react-native-card
+# react-native-card-box
 
 ## Getting Started
 
 - [Installation](#installation)
-- [Properties](#properties)
 
 ### Installation
 
 ```bash
-$ yarn add https://github.com/andresmichel/react-native-card
+$ yarn add https://github.com/andresmichel/react-native-card-box
 ```
-
-### Properties
